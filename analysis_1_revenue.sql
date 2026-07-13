@@ -1,6 +1,4 @@
--- =======================================
 -- ANALYSIS 1: REVENUE & SALES PERFORMANCE
--- =======================================
 
 -- Q1: Total Revenue
 SELECT SUM(price + freight_value) AS total_revenue
