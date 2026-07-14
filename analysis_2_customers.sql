@@ -1,3 +1,5 @@
+-- ANALYSIS 2: Customer Behaviour
+
 -- Q1. Total number of unique customers
 
 select count(distinct(customer_id)) as total_customers from orders
